@@ -1,0 +1,37 @@
+pwd
+Where am I?
+
+cd
+Change directory or 'go to'
+
+mkdir
+Makes new folder at pwd
+
+ls or ls -a
+Shows what is at pwd
+
+touch
+Creates files with <extension>
+
+vim
+Runs vim on <file>
+
+cat
+show contents of file in terminal
+
+cp
+Copies file and place in <directory>
+
+mv
+Moves file to <directory>
+
+rm
+Deletes file
+rm -rf
+Deletes folders
+
+banner
+Creates ascii are banner in terminal
+
+say ''
+Say what ever
