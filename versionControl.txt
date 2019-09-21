@@ -1,0 +1,5 @@
+a) because if you have previous version of the file you can narrow down what went wrong with the file
+
+b) you would want a previous version of code to compare what you did so that you can have a chance to figure out where the errors are caused
+
+c) it is important to commit because then all the things you put in will be 'hard' saved
